@@ -11,3 +11,6 @@
 
 ## Objetivos: 
 - Realizar un algoritmo de Clustering...
+
+## DataSet:
+-https://data.europa.eu/data/datasets/92dd25ac-36c8-4ae9-bb63-bc1fa52b0150?locale=es
