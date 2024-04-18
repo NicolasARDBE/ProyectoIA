@@ -17,4 +17,4 @@
 -Mirar la satisfacción de los jugadores según otras caracteristicas como el tiempo medio que les requiere.
 
 ## DataSet:
--https://data.europa.eu/data/datasets/92dd25ac-36c8-4ae9-bb63-bc1fa52b0150?locale=es
+-https://huggingface.co/datasets/FronkonGames/steam-games-dataset
