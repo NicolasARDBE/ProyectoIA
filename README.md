@@ -10,11 +10,7 @@
 - Nicolás Reyes.
 
 ## Objetivos: 
--Predecir la popularidad que tienen los juegos segun generos y jugadores concurrentes (entre otras posibles caracteristicas).
-
--Predecir las preferencias de los usuarios ante los sistemas operativos de los juegos.
-
--Mirar la satisfacción de los jugadores según otras caracteristicas como el tiempo medio que les requiere.
+- Regresión para predecir el puntaje general (OVA) de un jugador a partir de sus características y destrezas físicas.
 
 ## DataSet:
 -https://huggingface.co/datasets/FronkonGames/steam-games-dataset
