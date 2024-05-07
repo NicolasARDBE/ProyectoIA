@@ -10,7 +10,7 @@
 - Nicolás Reyes.
 
 ## Objetivos: 
-- Regresión para predecir el puntaje general (OVA) de un jugador a partir de sus características y destrezas físicas.
+- Desarrollar un modelo de regresión lineal que prediga el Overall (OVA) de los jugadores de FIFA 21 basado en sus características, con el fin de entender y predecir la calidad general de los jugadores en el juego.
 
 ## DataSet:
--https://huggingface.co/datasets/FronkonGames/steam-games-dataset
+https://www.kaggle.com/datasets/ekrembayar/fifa-21-complete-player-dataset/data
